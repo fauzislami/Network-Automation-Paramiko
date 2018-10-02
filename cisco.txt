@@ -1,0 +1,4 @@
+conf t
+interface lo0
+ip add 5.5.5.5 255.255.255.255
+no shut
